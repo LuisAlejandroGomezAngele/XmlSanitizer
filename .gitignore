@@ -1,0 +1,63 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de compilación
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# Paquetes NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Archivos de configuración local
+*.local.json
+*.userprefs
+
+# Archivos de publicación
+publish/
+*.Publish.xml
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Archivos de base de datos locales
+*.mdf
+*.ldf
+
+# Archivos de test y cobertura
+TestResults/
+*.coverage
+*.coveragexml
+
+# Archivos de configuración de Rider/JetBrains
+.idea/
+*.sln.iml
+
+# Archivos de sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos de MacOS
+.DS_Store
+
+# Archivos de Windows
+*.stackdump
+
+# Archivos de configuración de usuario
+*.vspscc
+*.vssscc
